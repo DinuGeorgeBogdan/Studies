@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1649972772 source:c:\users\bob\documents\zoom\codeblox\lab6\garantie.cpp
+	<iostream>
+	"Garantie.h"
+	<string>
+
+1649971405 c:\users\bob\documents\zoom\codeblox\lab6\garantie.h
+	<string>
+	<iostream>
+
+1649864367 source:c:\users\bob\documents\zoom\codeblox\lab6\main.cpp
+	<iostream>
+	"Produs.h"
+	<string>
+
+1649972772 c:\users\bob\documents\zoom\codeblox\lab6\produs.h
+	<string>
+	<iostream>
+	"Garantie.h"
+
+1649972799 source:c:\users\bob\documents\zoom\codeblox\lab6\produs.cpp
+	<iostream>
+	"Produs.h"
+	<string>
+

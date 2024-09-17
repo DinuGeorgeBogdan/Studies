@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639066982 source:c:\users\bob\documents\zoom\codeblox\l9e3\main.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+

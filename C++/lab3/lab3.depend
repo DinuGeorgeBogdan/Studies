@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1648046637 source:c:\users\bob\documents\zoom\codeblox\lab3\fractie.cpp
+	<iostream>
+	"fractie.h"
+
+1648040406 c:\users\bob\documents\zoom\codeblox\lab3\fractie.h
+
+1648045637 source:c:\users\bob\documents\zoom\codeblox\lab3\main.cpp
+	<iostream>
+	"fractie.h"
+

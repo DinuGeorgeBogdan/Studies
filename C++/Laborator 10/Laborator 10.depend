@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1652467835 source:c:\users\bob\documents\zoom\codeblox\laborator 10\main.cpp
+	<iostream>
+
+1652467835 source:c:\users\bob\documents\zoom\codeblox\laborator 10\angajat.cpp
+	"Angajat.h"
+
+1652467835 c:\users\bob\documents\zoom\codeblox\laborator 10\angajat.h
+	"Persoana.h"
+
+1652467860 c:\users\bob\documents\zoom\codeblox\laborator 10\persoana.h
+	<iostream>
+	<string>
+
+1652278905 source:c:\users\bob\documents\zoom\codeblox\laborator 10\student_angajat.cpp
+
+1652467835 source:c:\users\bob\documents\zoom\codeblox\laborator 10\student.cpp
+	"Student.h"
+
+1652467835 c:\users\bob\documents\zoom\codeblox\laborator 10\student.h
+	"Persoana.h"
+

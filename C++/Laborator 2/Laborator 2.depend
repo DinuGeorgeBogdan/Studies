@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1647449147 source:c:\users\bob\documents\zoom\codeblox\laborator 2\angajat.cpp
+	"Angajat.h"
+	<iostream>
+	<string.h>
+
+1647447756 c:\users\bob\documents\zoom\codeblox\laborator 2\angajat.h
+
+1647449158 source:c:\users\bob\documents\zoom\codeblox\laborator 2\main.cpp
+	"Angajat.h"
+	<iostream>
+	<string.h>
+

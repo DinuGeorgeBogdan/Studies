@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1648849994 source:c:\users\bob\documents\zoom\codeblox\lab4\main.cpp
+	<iostream>
+	"MyString.h"
+
+1648654240 c:\users\bob\documents\zoom\codeblox\lab4\mystring.h
+	<iostream>
+
+1648655007 source:c:\users\bob\documents\zoom\codeblox\lab4\mystring.cpp
+	<iostream>
+	"MyString.h"
+	<string.h>
+

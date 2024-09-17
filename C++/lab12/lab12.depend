@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653492254 source:c:\users\bob\documents\zoom\codeblox\lab12\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string.h>
+
