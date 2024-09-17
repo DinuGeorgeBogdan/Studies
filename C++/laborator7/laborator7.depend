@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1650466482 source:c:\users\bob\documents\zoom\codeblox\laborator7\electrocasnic.cpp
+	<iostream>
+	"Electrocasnic.h"
+	<string.h>
+
+1650466260 source:c:\users\bob\documents\zoom\codeblox\laborator7\produs.cpp
+	"Produs.h"
+	<iostream>
+
+1650468665 source:c:\users\bob\documents\zoom\codeblox\laborator7\tv.cpp
+	"TV.h"
+	<string>
+	<string.h>
+	<iostream>
+
+1650468279 source:c:\users\bob\documents\zoom\codeblox\laborator7\main.cpp
+	"TV.h"
+	<iostream>
+	<string>
+
+1650467209 c:\users\bob\documents\zoom\codeblox\laborator7\tv.h
+	"Electrocasnic.h"
+
+1650460461 c:\users\bob\documents\zoom\codeblox\laborator7\electrocasnic.h
+	"Produs.h"
+
+1650460085 c:\users\bob\documents\zoom\codeblox\laborator7\produs.h
+	<string>
+
